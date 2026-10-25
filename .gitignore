@@ -1,0 +1,20 @@
+# Gradle / Android
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+
+# Signature (ne jamais versionner la clé)
+*.jks
+*.keystore
+
+# Artefacts de release
+dist/
+*.apk
+
+# Divers
+__pycache__/
+*.pyc
